@@ -1,1 +1,1 @@
-![bfibraga's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![bfibraga's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfibraga&show_icons=true&theme=transparent)
